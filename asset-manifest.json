@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-hooks-timer-hw/static/css/main.2d4810f0.css",
+    "main.js": "/React-hooks-timer-hw/static/js/main.cd18dc56.js",
+    "static/js/787.e28d6d33.chunk.js": "/React-hooks-timer-hw/static/js/787.e28d6d33.chunk.js",
+    "index.html": "/React-hooks-timer-hw/index.html",
+    "main.2d4810f0.css.map": "/React-hooks-timer-hw/static/css/main.2d4810f0.css.map",
+    "main.cd18dc56.js.map": "/React-hooks-timer-hw/static/js/main.cd18dc56.js.map",
+    "787.e28d6d33.chunk.js.map": "/React-hooks-timer-hw/static/js/787.e28d6d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4810f0.css",
+    "static/js/main.cd18dc56.js"
+  ]
+}
