@@ -1,0 +1,33 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.timer_line {
+  width: 500px;
+  border: 1px solid lightgray;
+  margin: 0 auto;
+}
+
+#first_timer > .timer_line > .line {
+  width: 100%;
+  height: 30px;
+  background-color: rgb(72, 148, 230);
+}
+
+#second_timer > .timer_line > .line {
+  width: 100%;
+  height: 30px;
+  background-color: rgb(225, 230, 72);
+}
+
+button {
+  width: 120px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: rgb(229, 243, 255);
+}
